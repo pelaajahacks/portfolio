@@ -1,0 +1,23 @@
+<div class="subjects">
+                    <div class="picture">
+                        <picture>
+                            <source srcset="">
+                            <img src="" alt="">
+                        </picture>
+                    </div>
+                    <div class="subject">
+                    <p class="home-paragh">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatem est voluptatibus numquam repudiandae! Iure error minima minus vitae eveniet sequi illo, deserunt, adipisci fugit alias voluptates itaque, facere tempore magni.</p>
+                </div>
+                <div class="subject">
+                    <p class="home-paragh">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam debitis, dignissimos sint totam illum molestiae rerum labore inventore nam mollitia aut vitae laudantium asperiores commodi eveniet beatae suscipit alias officiis!</p>
+                </div>
+                <div class="subject">
+                    <p class="home-paragh">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum quae explicabo, sunt hic eligendi nobis sed a harum, voluptate accusantium sit tempore adipisci? Reiciendis quisquam quibusdam dolor deserunt id blanditiis.</p>
+                </div>
+                <div class="subject">
+                    <p class="home-paragh">Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat sunt ipsum temporibus veritatis ut, eius aperiam tempora, rem quas nobis assumenda! Quo at veniam tempore in excepturi aut laboriosam! Nam!</p>
+                </div>
+                <div class="subject">
+                    <p class="home-paragh">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Explicabo perspiciatis autem id odio atque, nihil asperiores inventore facere magnam debitis quidem impedit laboriosam vero suscipit blanditiis nam quo, cum sed!</p>
+                </div>
+                </div>
